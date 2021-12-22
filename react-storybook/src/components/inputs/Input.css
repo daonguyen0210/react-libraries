@@ -1,0 +1,10 @@
+.input {
+  border-radius: 5px;
+  color: coral;
+  padding: 4px 10px;
+  text-align: center;
+}
+
+.small { font-size: 11px;}
+.medium { font-size: 14px;}
+.large { font-size: 18px;}
